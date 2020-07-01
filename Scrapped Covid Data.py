@@ -10,10 +10,10 @@ import tweepy as tw
 
 ##Twitter Credentials 
 
-consumer_key = 'NtCbezFM22rtDeWKglJQ81QR7'
-consumer_secret = 'UPOiZNOIk0PVMbXWzIAE8Hs4FfTT0tulna5pJ0x2tNKbYq9O9D'
-access_token = '1165116941494882305-ZGiqbdtJyKHqBOTVjgaoMaPyvlEQea'
-access_secret = 'ey1Nvy4kmkKiwZFdLs4Cob8wa24tUKWxjCZOSIxjmlnNk'
+consumer_key = '********'
+consumer_secret = '********'
+access_token = '******-*******'
+access_secret = '*******'
 
 ## Authorization Handlers 
 
